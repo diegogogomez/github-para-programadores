@@ -1,2 +1,7 @@
-# github-para-programadores
-Prueba de repositorio
+# Bienvenido al curso de Github para desarrolladores
+
+Github para desarrolladores
+
+[Visita mi Blog](http://www.google.com)
+
+
